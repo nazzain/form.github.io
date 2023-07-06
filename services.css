@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Dancing Script', cursive;
+}
+.h1{
+    font-family: 'Dancing Script', cursive;
+    color: crimson;
+    margin-left: 30px;
+    margin-right: 80px;
+}
+.p{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(44, 2, 63);
+    margin-left: 30px;
+    margin-right: 80px;
+}
+
+.p1{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(7, 4, 39);
+    margin-left: 30px;
+    margin-right: 80px;
+}
+#btn{
+    margin-left: 30px;
+}
+ 
+
+

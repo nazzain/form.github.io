@@ -1,0 +1,44 @@
+body{
+margin: 0;
+padding: 0;
+
+}
+#h1{
+    
+    font-size: 80px;
+}
+.p{
+    
+    font-size: 30px;
+    color: #221f1f;
+}
+.centerdiv{
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#a{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 251, 249);
+    border-radius: 50px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 1px 4px 2px 2px #a4a5aa;
+    line-height: 100px;
+}
+#i{
+    font-size: 30px;
+    color: crimson;
+}
+a i{
+    
+    transition: all 0.3s linear;
+}
+ a:hover i{
+
+    transform:scale(1.4);
+ }
